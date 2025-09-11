@@ -1,3 +1,3 @@
 [build]
   command = "npx quartz build"
-  publish = "quartz/public"
+  publish = "public"
